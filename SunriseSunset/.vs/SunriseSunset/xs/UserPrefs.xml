@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{47BA639D-79AA-4F48-A983-D3EFED74AA51}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SunriseSunset/ViewModels/BaseViewModel.cs">
+    <Files>
+      <File FileName="SunriseSunset/Views/MainPage.xaml" Line="25" Column="14" />
+      <File FileName="SunriseSunset.MobileAppService/Models/IItemRepository.cs" Line="1" Column="1" />
+      <File FileName="SunriseSunset.MobileAppService/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="SunriseSunset.MobileAppService/Models/ItemRepository.cs" Line="1" Column="1" />
+      <File FileName="SunriseSunset/App.xaml.cs" Line="17" Column="46" />
+      <File FileName="SunriseSunset/SunriseSunset.csproj" Line="12" Column="11" />
+      <File FileName="SunriseSunset/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="SunriseSunset/Services/IDataStore.cs" Line="1" Column="1" />
+      <File FileName="SunriseSunset/App.xaml" Line="13" Column="15" />
+      <File FileName="SunriseSunset/ViewModels/BaseViewModel.cs" Line="15" Column="95" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SunriseSunset.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E9696E18-D944-43EE-B01B-9D8CE199F5A4" />
+  <MonoDevelop.Ide.ItemProperties.SunriseSunset.Android PreferredExecutionTarget="Android.AVD_for_Nexus_9_by_Google" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>
